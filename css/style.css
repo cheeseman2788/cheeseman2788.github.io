@@ -1,0 +1,103 @@
+.navbar {
+  margin-bottom: 0px
+}
+
+.jumbotron {
+  background: url(../img/main.jpeg) center no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-weight: 100;
+  margin-top: 200px;
+}
+
+.container .row {
+  text-align: center;
+}
+
+.box1 {
+  height: 200px;
+  border: thin solid #999999;
+  margin-bottom: 15px;
+  padding: 0px 10px 0px;
+  position: relative;
+}
+
+.box1 h2 {
+  font-weight: 300;
+  margin-bottom: 15px;
+}
+
+.box1 .btn {
+  position: absolute;
+  left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+  bottom: 10px;
+}
+
+.box2{
+  background: url(../img/image002.jpeg) center no-repeat;
+  background-size: cover;
+  height: 170px;
+  color: #fff;
+}
+
+.box2 h2 {
+  padding-top: 20px;
+  color: #fff;
+  font-weight: 300;
+}
+
+.box2 .btn {
+  position: absolute;
+  left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+  bottom: 10px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
+
+.box3 {
+  text-align: center;
+  background: url(../img/main.jpeg) bottom no-repeat;
+}
+
+.box3 h1{
+  font-weight: 100;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.event-block {
+  text-align: center;
+  height: 200px;
+  border-bottom: thin solid #999999;
+}
+
+.event-block h2 {
+  padding-top: 35px;
+  font-size: 25px;
+  font-weight: 200;
+}
+
+.box4 {
+  margin-top: 30px;
+}
+
+.profile {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.profile h2 {
+  font-weight: 200;
+  margin-bottom: 20px;
+}
